@@ -32,6 +32,8 @@
 ### The Landcover .tif is clipped to the Box Elder County Boundary to make the data more managable
 
 ![LandcoverClip script](images/LandcoverClip.png)
+<img width="751" height="722" alt="LandcoverClip" src="https://github.com/user-attachments/assets/379dc23e-f2df-4e78-8f60-18c6e9d0e735" />
+
 #### If it fails, try again (I'm not sure why it works sometimes and not others.)
 
 # Next we want to clip the habitat polygons and lekking sites for each species to the region boundary
@@ -51,9 +53,12 @@ Run 'GrouseClip' tool 4 times
      second tool parameter (Box_Elder_Addition_QL1_AOI.shp)
      third tool parameter (BE_UGRSG_Lek.shp)
 
-![GrouseClip script](images/GrouseClip.png)
-![GrouseClip processing] (images/GrouseClip_Processing.png)
-![GrouseClip results] (images/GrouseClip_results.png)
+![GrouseClip script](<img width="946" height="311" alt="GrouseClip" src="https://github.com/user-attachments/assets/4c780d64-5cd2-4ae9-832e-075303e913f9" />
+)
+![GrouseClip processing] (<img width="334" height="247" alt="GrouseClip_Processing" src="https://github.com/user-attachments/assets/79db77ad-cff2-4362-9781-9ff403def54f" />
+)
+![GrouseClip results] (<img width="511" height="270" alt="GrouseClip_results" src="https://github.com/user-attachments/assets/1a20cebb-0d36-4722-a176-e297ca180ada" />
+)
 
 # Create Buffer zones or Kernel Density using the clipped lekking site .shp files for both GRSG and CSTG.
 #### We want two KDE polygons per species, Core and General
