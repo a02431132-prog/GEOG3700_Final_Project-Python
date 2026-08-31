@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/31653198/README.md)
 # Columbian Sharp Tail Grouse and Greater Sage Grouse Lek Site Analysis
 ### We are analyzing overlapping lekking range and habitat
 ### There are five script tools that will be used to preform the analysis
