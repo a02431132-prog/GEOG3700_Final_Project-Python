@@ -1,5 +1,5 @@
 # Columbian Sharp Tail Grouse and Greater Sage Grouse Lek Site Analysis
-### We are analyzing overlapping lekking range and habitat
+### Analysis of overlapping lekking range and habitat
 ### There are five script tools that will be used to preform the analysis
 
  The script tools will:
@@ -8,6 +8,23 @@
     preform Kernel density
     identify overlap
     create .csv and shapefile with final reports.
+
+## Source Data:
+   •	Data Source:
+o	BLM UT GRSG Seasonal Habitats (Polygon). Department of the Interior: Bureau of Land Management,(2024), https://catalog.data.gov/dataset/blm-ut-grsg-seasonal-habitats-polygon
+
+o	Elevation data: 10m DEM from USGS National Map, https://raster.utah.gov/
+
+o	Land Cover Data. SWReGAP, Land Cover Data - SWReGAP
+
+o	Sharp-Tailed grouse Leks data. https://dwr-data-utahdnr.hub.arcgis.com/datasets/utahDNR::ut-columbian-sharp-tailed-grouse-cstg-occupied-leks/about
+
+o	UT DWR Greater Sage-Grouse Occupied Leks 2024. Arcgis.com, 2024, dwr-data-utahdnr.hub.arcgis.com/datasets/ut-dwr-greater-sage-grouse-occupied-leks-2024/explore
+	Has updated data that I may use, UT DWR Greater Sage-Grouse Occupied Leks 2025 UT DWR Greater Sage-Grouse Occupied Leks 2025 | DWR Data
+o	Utah Columbian Sharp-Tailed Grouse Habitat. Arcgis.com, 2025, dwr-data-utahdnr.hub.arcgis.com/datasets/utahDNR::utah-columbian-sharp-tailed-grouse-habitat/about
+
+o	Utah Ruffed Grouse Habitat. Arcgis.com, 2025, dwr-data-utahdnr.hub.arcgis.com/datasets/utahDNR::utah-ruffed-grouse-habitat/about 
+
 
 # Start by opening a new project in ArcPro, Map template.
     Add folder connection to folder containing the scripts and data folder
