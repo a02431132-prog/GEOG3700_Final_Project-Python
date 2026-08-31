@@ -24,7 +24,7 @@
 # Clip features to Area Of Interest by running 'LandcoverClip' script tool
 ### This will concentrate the analysis to a smaller area
 ![LandcoverClip processing](images/LandcoverClip_Processing.png)
-![<img width="338" height="244" alt="LandcoverClip_Processing" src="https://github.com/user-attachments/assets/7ebd3db0-61df-4ebd-86fa-9845c026248a" />
+<img width="338" height="244" alt="LandcoverClip_Processing" src="https://github.com/user-attachments/assets/7ebd3db0-61df-4ebd-86fa-9845c026248a" />
 
 
 
