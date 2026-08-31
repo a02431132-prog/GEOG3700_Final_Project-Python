@@ -44,7 +44,6 @@ o	Utah Ruffed Grouse Habitat. Arcgis.com, 2025, dwr-data-utahdnr.hub.arcgis.com/
 <img width="338" height="244" alt="LandcoverClip_Processing" src="https://github.com/user-attachments/assets/7ebd3db0-61df-4ebd-86fa-9845c026248a" />
 
 
-
 ### The DEM has already been set up for the Box Elder County Region
 ### The Landcover .tif is clipped to the Box Elder County Boundary to make the data more managable
 
